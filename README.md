@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Mobile - Gestão de Tarefas
 
 **Aluno:** [Seu Nome]
@@ -11,3 +12,6 @@ npm run test
 
 ## 📱 Como rodar o projeto
 npx expo start
+=======
+# mobile-app
+>>>>>>> e8b36fbd38438ef95f292be3c19596e85833ff36
